@@ -1,5 +1,4 @@
 import { Banner } from "@/components/banner";
-import { Cat } from "@/components/cat";
 import { ProductSection } from "@/components/product/product-section";
 import { PromotionCard } from "@/components/promotion-card";
 
